@@ -3,9 +3,9 @@
 
 ------
 
-> (902) 817-3574 \
-> [chemedandd@gmail.com](mailto:chemedandd@gmail.com) \
-> [github.com/nchemeda](https://www.github.com/nchemeda) \
+> (902) 817-3574 <br />
+> [chemedandd@gmail.com](mailto:chemedandd@gmail.com) <br />
+> [github.com/nchemeda](https://www.github.com/nchemeda) <br />
 > [linkedin.com/in/naol-chemeda-077bb9108](https://www.linkedin.com/in/naol-chemeda-077bb9108)
 ------
 
