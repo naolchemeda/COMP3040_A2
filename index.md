@@ -12,7 +12,7 @@
 
 ### Education
 
-**Bachelor of Science - Computer Science Major (Co-op)** \
+**Bachelor of Science - Computer Science Major (Co-op)** <br />
 University of Manitoba | Expected: December 2020
 
 ------
@@ -47,13 +47,13 @@ University of Manitoba | Expected: December 2020
 
 ### Experience
 
-**Computer Assisted Telephone Interviewer** *March 2018 - Present* \
+**Computer Assisted Telephone Interviewer** *March 2018 - Present* <br />
 **Statistics Canada** - Winnipeg, Canada
 
 - Responsible for the collection of a wide variety of data from Canadian businesses and households
 - Maintain high level of confidentiality and professionalism while collecting data
 
-**Technical Support Representative** *May 2017 - December 2018* \
+**Technical Support Representative** *May 2017 - December 2018* <br />
 **Shaw Communications** - Winnipeg, Canada
 
 - Diagnose and troubleshoot technical issues pertaining to internet and cable services
@@ -62,7 +62,7 @@ University of Manitoba | Expected: December 2020
 - Meet and exceed challenging individual and team KPI targets
 
 
-**Customer Service Representative** *April 2016 - May 2017* \
+**Customer Service Representative** *April 2016 - May 2017* <br />
 **24-7 Intouch Contact Centers** - Winnipeg, Canada
 
 - Accurately maintain and update customer information
