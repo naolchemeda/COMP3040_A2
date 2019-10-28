@@ -39,12 +39,21 @@ GitHub pages is a powerful tool you can use to host your static website or your 
 
 ### 5. View your static website
 
-You are done! You can view your static website by going to **GitHub pages** section in the **Settings**. And click on the link provided. Alternatively, you can copy paste the link below and replace **[YOUR GitHub ID]** with your GitHub id. __**Note**__: Jekyll themes can be a bit slow to update so after choosing a theme wait a couple of seconds and refresh the page.
+You are almost done! You can view your static website by going to **GitHub pages** section in the **Settings**. And click on the link provided. Alternatively, you can copy paste the link below and replace **[YOUR GitHub ID]** with your GitHub id. __**Note**__: Jekyll themes can be a bit slow to update so after choosing a theme wait a couple of seconds and refresh the page.
 
 ```
 https://[YOUR GitHub ID].github.io/Resume/
 
 ```
+
+### 6. Change resume title
+
+The final step is to change your resume title. If you view your static site now, it'll show your repository name as the resume title. To change the title follow these steps:
+* Go to your YML file. For me the file is `_config.YML`
+* Click on the edit button (:pencil2:)
+* Right after `theme: jekyll-theme-SELECTED THEME`, add `title: YOUR TITLE`
+* Commit changes
+* You are done!!!
 
 ![](https://media.giphy.com/media/3JTrNZgdf4LJGNUN1a/giphy.gif)
 
