@@ -2,7 +2,7 @@
 
 Are you tired of uploading your resume PDF file for every job application? Instead use GitHub and Jekyll to host your resume on a static website showcasing your understanding and use of new technology to your employer.
 
-## Who is this for?
+### Who is this for?
 
 If you are a novice at using GitHub especially GitHub Pages and Jekyll, this is a perfect instruction set to follow along. We will be hosting a markdown resume to GitHub Pages and format it using Jekyll. At the end, you will have a good grasp on the idea of using GitHub Pages and Jekyll themes. In addition, you will be able to host your resume on a static website without complex coding.
 
